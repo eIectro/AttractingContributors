@@ -46,3 +46,4 @@ to know more about games in the open world g and play
 * fallout series
 * MGS5
 * DEATH STRANDING
+* THE LEGEND OF ZELDA BREATH OF THE WILD
