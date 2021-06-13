@@ -15,10 +15,8 @@ To complete the assignment, please do the following:
 3. Make 10 Pull Request contributions to other projects
 4. Merge 10 Pull Requests into your forked Project.
 
-# Example. 
-https://github.com/raux/AttractingContributors-Anime (Anime topic)
-
-https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
+# My Project
+Gaol - I want to know your favorite Game so please let me know!!
 
 
 Please tell me your favorite number
@@ -38,6 +36,7 @@ Please tell me your favorite number
 - 001
 - 15
 - 14
+-334
 - 28
 - 五千兆
 - 15
