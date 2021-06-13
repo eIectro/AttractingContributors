@@ -16,7 +16,6 @@ To complete the assignment, please do the following:
 4. Merge 10 Pull Requests into your forked Project.
 
 # My Project
-Gaol - I want to know your favorite Game so please let me know!!
 
 
 Please tell me your favorite number
